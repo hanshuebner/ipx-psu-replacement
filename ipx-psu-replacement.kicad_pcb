@@ -1153,7 +1153,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 93d0d70c-fdf6-4027-ba99-e218cc59968e)
     )
-    (fp_text value "74HCT27" (at 0 0 270 unlocked) (layer "F.SilkS")
+    (fp_text value "74HCT11" (at 0 0 270 unlocked) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 17ab3733-5d72-49de-8d3b-cc332a6872c8)
     )
