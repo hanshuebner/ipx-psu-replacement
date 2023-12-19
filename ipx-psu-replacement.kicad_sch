@@ -3083,7 +3083,7 @@
     (property "Footprint" "Converter_ACDC:CONV_RACM30-24SK_277" (at 106.68 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf" (at 106.68 105.41 0)
+    (property "Datasheet" "https://recom-power.com/pdf/Powerline_AC-DC/RACM30-K_277.pdf" (at 106.68 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1bdbf7cb-c63f-436b-83b2-b1f330fdfb95))
