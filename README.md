@@ -42,4 +42,4 @@ Another couple of parts need to be bought
 |R1, R2, R3, R4|4   |680kΩ      |Resistor SMD 0603                                                           |
 |R5, R6        |2   |120Ω       |Resistor radial 5W, 20mmx9mmx9mm, 25mm pitch                                |
 |PS1           |1   |IRM-60-5   |MeanWell IRM-60-5 50 Watt AC/DC power supply, 5V, 10A                       |
-|PS2           |1   |RACM30-12DK|RECOM RACM30-24SK/277 30 Watt Dual Output AC/DC power supply, ±12V, ±1250mA |
+|PS2           |1   |RACM30-12DK|RECOM RACM30-12DK/277 30 Watt Dual Output AC/DC power supply, ±12V, ±1250mA |
