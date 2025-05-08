@@ -34,9 +34,9 @@ Another couple of parts need to be bought
 
 |Ref           |Qnty|Value      |Description                                                                 |
 |--------------|----|-----------|----------------------------------------------------------------------------|
-|U1            |1   |74HCT11D   |Triple 3-input NOR, SO-14                                                   |
+|U1            |1   |74HCT11D   |Triple 3-input AND, SO-14                                                   |
 |U2            |1   |MAX8215CSD |Voltage Monitor IC, SO-14                                                   |
-|D1            |1   |PMEG2010ER |50V 1A General Purpose Rectifier Diode, SOD-123                             |
+|D1            |1   |PMEG2010ER |20V 1A Planar Schottky barrier rectifier, SOD-123                           |
 |C1, C2        |2   |100nF      |Capacitor bipolar SMD 0603                                                  |
 |C3            |1   |1µF        |Capacitor bipolar SMD 0603                                                  |
 |R1, R2, R3, R4|4   |680kΩ      |Resistor SMD 0603                                                           |
